@@ -1,2 +1,4 @@
 const randomDanceName = require('./lib/generateDanceNames')
-console.log(randomDanceName)
+exports.randomDanceNameGenerator = async function () {
+  console.log(randomDanceName)
+}
