@@ -1,6 +1,6 @@
 {
   "name": "random-dance-names",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A generator with random dance names!",
   "main": "lib/index.js",
   "scripts": {
